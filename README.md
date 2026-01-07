@@ -21,4 +21,6 @@ A frontend based on **web3.js** and **React.js** is also designed to illustrate 
 ![IoTWorkflow](images/IoTWorkflow.png)
 
 **Frontend:**
-![IoTFrontend](images/IoTFrontend.png)
+![Frontend1](images/Frontend1.png)
+
+![Frontend2](images/Frontend2.png)
