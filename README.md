@@ -10,7 +10,7 @@ Token example:
 
 After issuing tokens to respective owners, the owner can also transfer the ownership of his/her token to another user, which means the owner of this device will be changed after transferring.
 
-A frontend based on **web3.js** and **React.js** is also designed to illustrate the process, including a webpage for users to register their device, and another one for the manager to manage the registered devices.
+A simple frontend based on **web3.js** and **React.js** is also designed to illustrate the process, including a webpage for users to register their device, and another one for the manager to manage the registered devices.
 
 [Detailed slides of the system design & workflow](https://drive.google.com/file/d/1KROeYTuvcb88unppRu9a7DrvvGbcPlOz/view?usp=sharing)
 
