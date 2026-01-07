@@ -1,0 +1,23 @@
+/* Styles go here */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(#87CEEB, #FFFFFF);
+}
+
+
+button {
+  border-radius: 15px;
+
+  outline: none;
+}
+
+/*button:hover {
+  background-color: white;
+}*/
