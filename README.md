@@ -5,6 +5,7 @@
 In this model, a **smart contract** based on Ethereum will create a unique **ERC-1155 token** for each IoT device. The token contains device information (device ID) and the device’s owner information, including owner ID and the **IPFS** (InterPlanetary File System) hash value of the owner's profile. All this information will be recorded on blockchain.
 
 Token example:
+
 <img src="images/token.png" alt="token" width="500"/>
 
 After issuing tokens to respective owners, the owner can also transfer the ownership of his/her token to another user, which means the owner of this device will be changed after transferring.
